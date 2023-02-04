@@ -1,0 +1,76 @@
+2022-11-21 12:42:18.652[main]INFO  cabbooking.Admin- Enter Email
+2022-11-21 12:42:24.183[main]INFO  cabbooking.Admin- Enter Password
+2022-11-21 12:42:41.627[main]INFO  com.revature.controller.AdminController- Enter '1' for AddUser
+2022-11-21 12:42:41.628[main]INFO  com.revature.controller.AdminController- Enter '2' for AddCab
+2022-11-21 12:42:41.628[main]INFO  com.revature.controller.AdminController- Enter '3' for UpdateCab
+2022-11-21 12:42:41.628[main]INFO  com.revature.controller.AdminController- Enter '4' for DeleteCab
+2022-11-21 12:42:41.628[main]INFO  com.revature.controller.AdminController- Enter '5' for BookedDetails
+2022-11-21 12:42:41.629[main]INFO  com.revature.controller.AdminController- Enter '6' for ArrangedCab
+2022-11-21 12:42:41.629[main]INFO  com.revature.controller.AdminController- Enter '7' for logout
+2022-11-21 12:43:07.180[main]INFO  com.revature.controller.AdminController- Enter Name : 
+2022-11-21 12:43:11.055[main]INFO  com.revature.controller.AdminController- Enter Gender : 
+2022-11-21 12:43:14.636[main]INFO  com.revature.controller.AdminController- Enter Age : 
+2022-11-21 12:43:18.006[main]INFO  com.revature.controller.AdminController- Enter Type : 
+2022-11-21 12:43:22.683[main]INFO  com.revature.controller.AdminController- Enter email : 
+2022-11-21 12:43:28.627[main]INFO  com.revature.controller.AdminController- Enter password : 
+2022-11-21 12:43:33.849[main]INFO  com.revature.controller.AdminController- Enter mobile : 
+2022-11-21 12:43:45.641[main]INFO  com.revature.controller.AdminController- Succesfully added details
+2022-11-21 12:43:45.641[main]INFO  com.revature.controller.AdminController- Enter '1' for AddUser
+2022-11-21 12:43:45.641[main]INFO  com.revature.controller.AdminController- Enter '2' for AddCab
+2022-11-21 12:43:45.642[main]INFO  com.revature.controller.AdminController- Enter '3' for UpdateCab
+2022-11-21 12:43:45.642[main]INFO  com.revature.controller.AdminController- Enter '4' for DeleteCab
+2022-11-21 12:43:45.642[main]INFO  com.revature.controller.AdminController- Enter '5' for BookedDetails
+2022-11-21 12:43:45.642[main]INFO  com.revature.controller.AdminController- Enter '6' for ArrangedCab
+2022-11-21 12:43:45.642[main]INFO  com.revature.controller.AdminController- Enter '7' for logout
+2022-11-21 12:44:15.346[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- id	name	email	mobile	number	status	seat
+2022-11-21 12:44:15.347[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 1	sekar	sekar@gmail.com	9942752567	45	available	0
+2022-11-21 12:44:15.347[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 2	surya	surya@gmail.com	9946752567	35	available	0
+2022-11-21 12:44:15.347[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 3	praveen	praveen@gmail.com	9142752567	40	available	0
+2022-11-21 12:44:15.348[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 4	suresh	suresh@gmail.com	9936752567	32	available	0
+2022-11-21 12:44:15.348[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 5	guru	guru@gmail.com	9942758567	37	available	0
+2022-11-21 12:44:15.348[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 6	vignesh	vignesh@gmail.com	9046752567	31	available	0
+2022-11-21 12:44:15.349[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Enter id
+2022-11-21 12:44:34.755[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Enter Name
+2022-11-21 12:44:40.230[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Enter email
+2022-11-21 12:44:52.114[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Enter mobile
+2022-11-21 12:46:46.253[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Enter number
+2022-11-21 12:47:05.154[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Enter Status
+2022-11-21 12:47:11.820[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Enter Seat
+2022-11-21 12:47:18.384[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Updated cab details
+2022-11-21 12:47:18.385[main]INFO  com.revature.controller.AdminController- Enter '1' for AddUser
+2022-11-21 12:47:18.385[main]INFO  com.revature.controller.AdminController- Enter '2' for AddCab
+2022-11-21 12:47:18.385[main]INFO  com.revature.controller.AdminController- Enter '3' for UpdateCab
+2022-11-21 12:47:18.386[main]INFO  com.revature.controller.AdminController- Enter '4' for DeleteCab
+2022-11-21 12:47:18.386[main]INFO  com.revature.controller.AdminController- Enter '5' for BookedDetails
+2022-11-21 12:47:18.386[main]INFO  com.revature.controller.AdminController- Enter '6' for ArrangedCab
+2022-11-21 12:47:18.386[main]INFO  com.revature.controller.AdminController- Enter '7' for logout
+2022-11-21 12:47:59.547[main]INFO  com.revature.controller.AdminController- employee_id	place	booking	cab_No
+2022-11-21 12:47:59.547[main]INFO  com.revature.controller.AdminController- 1	sorathur	approved	31
+2022-11-21 12:47:59.547[main]INFO  com.revature.controller.AdminController- 3	Weststreet, sorathur,cuddalore 	deny	null
+2022-11-21 12:47:59.547[main]INFO  com.revature.controller.AdminController- 2	neyveli,cuddalore 607805	approved	pending
+2022-11-21 12:47:59.547[main]INFO  com.revature.controller.AdminController- 3	sathayamangalam	request	null
+2022-11-21 12:47:59.547[main]INFO  com.revature.controller.AdminController- Enter '1' for AddUser
+2022-11-21 12:47:59.547[main]INFO  com.revature.controller.AdminController- Enter '2' for AddCab
+2022-11-21 12:47:59.547[main]INFO  com.revature.controller.AdminController- Enter '3' for UpdateCab
+2022-11-21 12:47:59.547[main]INFO  com.revature.controller.AdminController- Enter '4' for DeleteCab
+2022-11-21 12:47:59.548[main]INFO  com.revature.controller.AdminController- Enter '5' for BookedDetails
+2022-11-21 12:47:59.548[main]INFO  com.revature.controller.AdminController- Enter '6' for ArrangedCab
+2022-11-21 12:47:59.548[main]INFO  com.revature.controller.AdminController- Enter '7' for logout
+2022-11-21 12:48:30.080[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- id	name	email	mobile	number	status	seat
+2022-11-21 12:48:30.081[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 1	sekar	sekar@gmail.com	9942752567	45	available	0
+2022-11-21 12:48:30.081[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 2	surya	surya@gmail.com	9946752567	35	available	0
+2022-11-21 12:48:30.081[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 3	praveen	praveensm@gmail.com	9242786759	50	Available	0
+2022-11-21 12:48:30.082[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 4	suresh	suresh@gmail.com	9936752567	32	available	0
+2022-11-21 12:48:30.082[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 5	guru	guru@gmail.com	9942758567	37	available	0
+2022-11-21 12:48:30.083[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- 6	vignesh	vignesh@gmail.com	9046752567	31	available	0
+2022-11-21 12:48:30.083[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Enter Id
+2022-11-21 12:48:46.631[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Enter Cab No
+2022-11-21 12:48:56.370[main]INFO  com.revature.daoImplementation.AdminDaoImplementation- Successfully arranged cab_NO
+2022-11-21 12:48:58.596[main]INFO  com.revature.controller.AdminController- Enter '1' for AddUser
+2022-11-21 12:48:58.596[main]INFO  com.revature.controller.AdminController- Enter '2' for AddCab
+2022-11-21 12:48:58.596[main]INFO  com.revature.controller.AdminController- Enter '3' for UpdateCab
+2022-11-21 12:48:58.596[main]INFO  com.revature.controller.AdminController- Enter '4' for DeleteCab
+2022-11-21 12:48:58.596[main]INFO  com.revature.controller.AdminController- Enter '5' for BookedDetails
+2022-11-21 12:48:58.596[main]INFO  com.revature.controller.AdminController- Enter '6' for ArrangedCab
+2022-11-21 12:48:58.596[main]INFO  com.revature.controller.AdminController- Enter '7' for logout
+2022-11-21 12:49:28.035[main]INFO  com.revature.controller.AdminController- Successfully logged out

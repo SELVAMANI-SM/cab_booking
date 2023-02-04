@@ -1,0 +1,4 @@
+className=com.mysql.cj.jdbc.Driver
+user=jdbc:mysql://hariharan-db.cdbky3odmgvg.ap-south-1.rds.amazonaws.com/selvamani_db
+userName=selvamani
+userPassword=Selva@123
